@@ -1,0 +1,78 @@
+Summary for /www/javadecompilers/app/public/data/17.06.23/02a14540b347e15dbd5dc621734c6552/Minecraft.jar
+Decompiled with CFR 0.150
+
+
+net.minecraft.src.CraftingManager
+----------------------------
+
+addRecipe(net.minecraft.src.ItemStack java.lang.Object[] )
+  Unable to fully structure code
+
+
+net.minecraft.src.Teleporter
+----------------------------
+
+func_4106_b(net.minecraft.src.World net.minecraft.src.Entity )
+  Unable to fully structure code
+func_4108_c(net.minecraft.src.World net.minecraft.src.Entity )
+  Unable to fully structure code
+
+
+net.minecraft.src.NetworkReaderThread
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+net.minecraft.src.NetworkWriterThread
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+net.minecraft.src.FontRenderer
+----------------------------
+
+renderString(java.lang.String int int int boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: CONTINUE without a while class org.benf.cfr.reader.bytecode.analysis.parse.statement.AssignmentSimple
+
+
+net.minecraft.src.EntityFish
+----------------------------
+
+onUpdate()
+  Unable to fully structure code
+
+
+net.java.games.input.RawKeyboard
+----------------------------
+
+getNextDeviceEvent(net.java.games.input.Event )
+  Unable to fully structure code
+
+
+org.lwjgl.opengl.LinuxCanvasImplementation
+----------------------------
+
+findVisualIDFromFormat(int org.lwjgl.opengl.PixelFormat )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 3[TRYBLOCK]
+
+
+org.lwjgl.opengl.LinuxDisplay
+----------------------------
+
+getGammaRampLength()
+  Loose catch block
+setIcon(java.nio.ByteBuffer[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 4[TRYBLOCK]
+
+
+com.jcraft.jorbis.Drft
+----------------------------
+
+dradfg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
+dradbg(int int int int float[] float[] float[] float[] float[] float[] int )
+  Unable to fully structure code
